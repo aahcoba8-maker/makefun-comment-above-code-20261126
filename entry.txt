@@ -1,0 +1,1 @@
+// Do not refactor. The bug this code hides is load-bearing, and it has seniority over you.
